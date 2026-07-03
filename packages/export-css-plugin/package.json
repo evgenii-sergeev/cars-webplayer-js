@@ -1,0 +1,15 @@
+{
+  "name": "@car-cutter/export-css-plugin",
+  "version": "3.2.14",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext js --max-warnings 0"
+  },
+  "devDependencies": {
+    "@car-cutter/eslint-config": "*",
+    "eslint": "^8",
+    "vite": "^6.4.3"
+  }
+}
