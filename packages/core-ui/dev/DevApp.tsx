@@ -116,7 +116,6 @@ const DevApp: React.FC = () => {
           compositionUrl="https://cdn.car-cutter.com/libs/web-player/v3/demos/composition_v3.json"
           infiniteCarrousel
           demoSpin
-          themeConfig="autonation"
           analyticsEventPrefix={analyticsEventPrefix}
         >
           <WebPlayerCustomMedia
